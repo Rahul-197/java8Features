@@ -8,6 +8,6 @@ public class SupplierWithLemda
 		{
 			Supplier<String> spl = ()->"Hi java example supplier interface with lemda ";
 			System.out.println(spl.get());
-System.out.println(spl.get());
+System.out.println(spl.get());//https://github.com/Rahul-197/java8NewFeatures.git
 		}
 	}
