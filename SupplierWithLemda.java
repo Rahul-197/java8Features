@@ -8,5 +8,6 @@ public class SupplierWithLemda
 		{
 			Supplier<String> spl = ()->"Hi java example supplier interface with lemda ";
 			System.out.println(spl.get());
+System.out.println(spl.get());
 		}
 	}
